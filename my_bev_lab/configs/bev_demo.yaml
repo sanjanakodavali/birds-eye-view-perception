@@ -1,0 +1,15 @@
+camera:
+  fx: 800
+  fy: 800
+  cx: 640
+  cy: 360
+  height_m: 1.6
+  pitch_degrees: 8.0
+
+bev_grid:
+  x_limits_m: [-10, 10]
+  y_limits_m: [0, 45]
+  resolution_m: 0.5
+
+demo:
+  description: "Synthetic camera-to-BEV projection demo for autonomous-driving perception study."
