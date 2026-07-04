@@ -1,5 +1,27 @@
-> [!IMPORTANT]
-> 🌟 Stay up to date at [opendrivelab.com](https://opendrivelab.com/#news)!
+# BEV Perception Lab — Personal Extension
+
+This repository is based on OpenDriveLab's public **Bird's-eye-view (BEV) Perception** survey and toolbox. I am using it as a foundation to build a hands-on autonomous-driving perception study focused on camera-to-BEV projection, calibration-aware visualization, and reproducible experimentation.
+
+## My Contributions
+
+I added a separate `my_bev_lab/` module containing my own implementation notes, experiment structure, and scripts for:
+
+- camera-to-BEV projection experiments
+- calibration-aware visualization utilities
+- reproducible experiment configuration
+- BEV workflow documentation
+- evaluation notes for autonomous-driving perception pipelines
+
+The original OpenDriveLab README, citation, and license are preserved below for attribution.
+
+## Project Goal
+
+The goal of my extension is to turn the BEV perception survey/toolbox into a practical learning and experimentation repo for understanding how autonomous-driving systems transform camera or sensor inputs into bird's-eye-view representations for detection, segmentation, and planning.
+
+---
+
+# Original OpenDriveLab README
+
 
 # Bird's-eye-view (BEV) Perception: A Survey and Collection
 
